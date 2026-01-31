@@ -1,3 +1,5 @@
 langchain
 langchain-core
 langchain-coommunity
+pypdf
+pymupdf
